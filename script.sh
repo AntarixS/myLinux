@@ -1,4 +1,3 @@
-set +e
 echo "Hello all"
 date
 cal
